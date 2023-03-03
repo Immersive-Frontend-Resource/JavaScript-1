@@ -7,7 +7,7 @@ Tugas Alta Immersive Frontend Fundamental Programming (JavaScript #1)
 1. Clone repository ini dengan cara
 
 ```
-git clone git@github.com:Immersive-Frontend-Resource/JavaScript-1.git
+git clone https://github.com/Immersive-Frontend-Resource/JavaScript-1.git
 ```
 
 setelah itu buat repository pada github organization kalian dengan format `JavaScript-1`, lalu copy link HTTPS seperti gambar dibawah
